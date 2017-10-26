@@ -4,4 +4,8 @@ Az atomfegyverek feletti hatalom, a Homo Sapiens, a Homo Egoist és a Homo Sugge
 Please read, review, (maybe fork), translate it...
 Thank you for your attention, contribution.
 
+Ez a vallásom. ÉN hiszek benne. Ha nem, módosítom, hogy újra hihessek benne.
+Lehet forkolni. Én is szoktam horkolni :D
+Sok sikert.
+
 (copyleft - you should only refer this writing with a link, and with a citation...) VALÓSÁG 2017
