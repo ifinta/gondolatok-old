@@ -9,3 +9,7 @@ Lehet forkolni. Én is szoktam horkolni :D
 Sok sikert.
 
 (copyleft - you should only refer this writing with a link, and with a citation...) VALÓSÁG 2017
+
+Known bugs, TODO's: integrate Yotengrit ... 
+http://yotengrit.hu/yotengrit/diohejban/
+((rettentő hasonlóságok első olvasatban... igazi P2P vallás...))
